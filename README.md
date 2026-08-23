@@ -75,7 +75,7 @@ pip install send2trash
 
 3. **Run the program:**
    ```bash
-   python "ADB Py-Transfer V.3.0.3.py"
+   python "ADB Py-Transfer V.3.0.3.pyw"
    ```
 
 ---
